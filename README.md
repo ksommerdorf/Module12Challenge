@@ -1,1 +1,2 @@
-# Module12Challenge
+# Overview of Project
+Roza is a biological researcher in a prominent microbiology laboratory. She is interested in bacterial species that can synthesize proteins that taste like beef. Her lab has partnered with Improbable Beef, a food startup to research candidate species. Improbable Beef is searching for the bacteria that will synthesize the best tasting meat. Roza has asked for help in showcasing her research to her research participants and fellow researchers in a user-friendly dashboard. The result of the project showcases Roza's research results in html format using JavaScript, Plotly, and D3.js.
